@@ -1,4 +1,3 @@
-import java.io.Serializable;
 
 public class Item {
     private String name;
